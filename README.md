@@ -4,7 +4,7 @@ Table of Contents
 - [Screenshot](#screenshot)
 - [Questions](#questions)
 - [Credits](#credits)
-- [Lisence] (#lisence)
+- [Lisence](#lisence)
 - [Deployed-Application](#deployed-application)
 
 # Description
