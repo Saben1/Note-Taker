@@ -14,7 +14,7 @@ USER STORY: As a small business owner, I want to be able to write and save notes
 so that I can organize my thoughts and keep track of tasks I need to complete.
 
 # Screenshot
-https://github.com/Saben1/Note-Taker/issues/1#issue-1747410545
+![Screenshot](https://github.com/Saben1/Note-Taker/issues/1#issue-1747410545)
 
 
 # Questions
