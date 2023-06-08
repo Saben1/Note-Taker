@@ -2,8 +2,9 @@
 Table of Contents
 - [Description](#description)
 - [Screenshot](#screenshot)
-- [Questions](#Questions)
+- [Questions](#questions)
 - [Credits](#credits)
+- [Lisence] (#lisence)
 - [Deployed-Application](#deployed-application)
 
 # Description
@@ -13,6 +14,7 @@ USER STORY: As a small business owner, I want to be able to write and save notes
 so that I can organize my thoughts and keep track of tasks I need to complete.
 
 # Screenshot
+https://github.com/Saben1/Note-Taker/issues/1#issue-1747410545
 
 
 # Questions
@@ -21,6 +23,9 @@ You can also get a hold of me through my [GitHub](https://github.com/Saben1) acc
 
 # Credits
 This application was made by Sabin Budhathoki.
+
+# Lisence
+This project is lisenced under the ISC Lisence.
 
 
 # Deployed-Application
